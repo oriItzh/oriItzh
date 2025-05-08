@@ -1,21 +1,21 @@
 # 👋 Hi, I'm Ori Itzhaki
 
 🎓 I'm a third-year Computer Science student at Reichman University.  
-🏅 Honors Program | GPA: 96.3  
+🏅 Honors Program | GPA: 97  
 🧠 Passionate about algorithms, systems programming, and applied machine learning.
 
 ---
 
 ## 💼 Experience
 
-- 🧑‍🏫 **Private Tutor** in Data Structures, Algorithms, Calculus, and Programming (Python, Java)
 - 🧪 Data structures Teaching assistant at the university
+- 🧑‍🏫 **Private Tutor** in Data Structures, Algorithms, Calculus, and Programming (Python, Java)
 
 ---
 
 ## 👨‍💻 Tech Stack
 
-- Languages: **C**, **C++**, **Python**, **Java**, **Kotlin**, **C#**
+- Languages: **Python**, **Java**, **C**, **Kotlin**, **C#**, **JS**
 - Strong in: **Data Structures**, **Algorithms**, **Operating Systems**, **Computer Networks**, **Machine Learning (Intro)**
 - Tools: Git, VS Code, Linux, Docker (basic)
 
