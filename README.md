@@ -17,7 +17,7 @@
 
 - Languages: **Python**, **Java**, **C**, **Kotlin**, **C#**, **JS**
 - Strong in: **Data Structures**, **Algorithms**, **Operating Systems**, **Computer Networks**, **Machine Learning (Intro)**
-- Tools: Git, VS Code, Linux, Docker (basic)
+- Tools: Git, Postman, SQL, React .NET, Linux, Docker (basic)
 
 ---
 
